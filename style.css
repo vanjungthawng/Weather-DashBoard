@@ -1,0 +1,13 @@
+li:hover {
+  background-color: #f8f9fa;
+}
+
+li:active {
+  background-color: lightgray;
+}
+
+@media only screen and (min-width: 768px) {
+  #search-div {
+    min-height: 100vh;
+  }
+}
