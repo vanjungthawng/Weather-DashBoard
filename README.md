@@ -4,7 +4,7 @@ This weather application is a pretty cool apps that allow user to search for cur
 
 ## Live Application
 
-[Click Here!](https://wwww.github.com)
+[Click Here!](https://vanjungthawng.github.io/Weather-DashBoard/)
 
 ## Mock-Up
 
